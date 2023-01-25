@@ -1,0 +1,16 @@
+body{
+background-color: black;
+color: white;
+font-size: 25pt;
+}
+h1{
+    font-size:40pt;
+}
+p{
+    font-family: 'serif, Times New Roman', Times;
+    color:lightpink;
+    font-size: 15pt;
+}
+.title{
+    font-weight:bold;
+}
