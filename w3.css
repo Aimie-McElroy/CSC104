@@ -2,8 +2,8 @@ body{
 background-color: black;
 color: white;
 font-size: 25pt;
-background-image :url("Declaration_of_Independence_(1819),_by_John_Trumbull.jpg");
-background-size: 2000px;  
+background-image :url("Declaration_of_Independence_(1819),_by_John_Trumbull.jpg"); /**Picture**/
+background-size: 2000px;  /**brings picture to size that is needed to fit webpage*/
 }
 h1{
     font-size:40pt;
