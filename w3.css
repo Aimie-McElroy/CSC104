@@ -2,13 +2,15 @@ body{
 background-color: black;
 color: white;
 font-size: 25pt;
+background-image :url("Declaration_of_Independence_(1819),_by_John_Trumbull.jpg");
+background-size: 2000px;  
 }
 h1{
     font-size:40pt;
 }
 p{
     font-family: 'serif, Times New Roman', Times;
-    color:lightpink;
+    color:rgb(233, 215, 218);
     font-size: 15pt;
 }
 .title{
